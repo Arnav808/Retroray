@@ -1,0 +1,6 @@
+# Ignore the compiled executable binary
+*.exe
+*.o
+
+# Ignore local VS Code configuration tracks
+.vscode/
